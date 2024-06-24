@@ -14,4 +14,7 @@ Software Requirements
 
 Version Control and Project Management Requirements
 - Git/Github for version sontrol
-- Github's integrated Kanban feature 
+- Github's integrated Kanban feature
+
+Mechanical Design Requirement
+- Onshape for 3D modeling  
